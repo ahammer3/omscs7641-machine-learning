@@ -6,3 +6,5 @@ List of projects uploaded so far:
 1) Supervised Learning
 
 2) Randomized Optimization
+
+3) Unsupervised Learning and Dimensionality Reduction 
